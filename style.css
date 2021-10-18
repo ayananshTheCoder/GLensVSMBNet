@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+body
+{
+     background:lightblue;
+}
+
+#div1
+{
+    margin-top: 10px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+#divA1
+{
+    margin-top: 15px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+img
+{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#divA2
+{
+    margin-top: 10px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+#divA3
+{
+    margin-top: 10px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+#divA4
+{
+    margin-top: 10px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+#divA5
+{
+    margin-top: 10px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+#titleDiv
+{
+    font-family: monospace;
+    font-size: 55px;
+}
+
+#descDiv
+{
+    font-family: monospace;
+    font-size: 22px;
+    letter-spacing: 4.4px;
+}
+
+#GLensB
+{
+    color: #0F9D58;
+}
+
+#GLensB2
+{
+    color: #F4B400;
+}
+
+#titleDivA
+{
+    font-family: monospace;
+    font-size: 26;
+    font-weight: bold;
+}
+
+#normalTxt
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18;
+}
+
+#resultDiv
+{
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+#divList
+{
+    margin-top: 10px;
+    background-color: white;
+    width: 70%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+ol
+{
+    text-align: left !important;
+}
+
+a
+{
+    color: black !important;
+}
+
+#copyright-div
+{
+    background-color: white;
+    margin-top: 5px;
+    width: 70%;
+    color: lightblue;
+    border-radius: 5px;
+    padding: 2%;
+}
