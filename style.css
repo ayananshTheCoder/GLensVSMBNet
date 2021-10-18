@@ -2,7 +2,8 @@
 
 body
 {
-     background:lightblue;
+    background:lightblue;
+    text-align: center;
 }
 
 #div1
@@ -130,9 +131,10 @@ a
 #copyright-div
 {
     background-color: white;
-    margin-top: 5px;
-    width: 70%;
+    width: 100%;
     color: lightblue;
-    border-radius: 5px;
-    padding: 2%;
+    padding: 1%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
 }
