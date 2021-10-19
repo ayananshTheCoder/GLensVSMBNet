@@ -4,6 +4,8 @@ body
 {
     background:lightblue;
     text-align: center;
+    margin: 0px;
+    padding-bottom: 60px;
 }
 
 #div1
@@ -102,6 +104,14 @@ img
     font-size: 18;
 }
 
+#resultTxt
+{
+    font-family: monospace;
+    font-size: 20;
+    color: rgb(5, 165, 5);
+    text-transform: uppercase;
+}
+
 #resultDiv
 {
     background-color: lightblue;
@@ -137,4 +147,5 @@ a
     bottom: 0;
     position: fixed;
     text-align: center;
+    margin: 0px;
 }
